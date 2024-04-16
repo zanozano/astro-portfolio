@@ -169,6 +169,7 @@
       "url": "https://www.alkemy.org/",
       "area": "Full Stack Java Development",
       "studyType": "Certificate",
+      "summary": "The program was designed to build and maintain software using Java and Spring Boot. It developed REST APIs and managed MySQL databases, adhering to technical specifications to address user problems effectively. The program followed sound programming principles to ensure the delivery of high-quality products.",
       "startDate": "2024-01-01",
       "endDate": null,
       "score": "7.0"
@@ -178,6 +179,7 @@
       "url": "https://www.infocap.cl/",
       "area": "Ruby on Rails Development",
       "studyType": "Certificate",
+      "summary": "The program was designed to build and maintain software using Ruby on Rails. It developed REST APIs and managed PostgreSQL databases, adhering to technical specifications to address user needs effectively. By following sound programming principles, it ensured the creation of high-quality products. Additionally, the program was adept at producing minimum viable products (MVPs) to support efficient startup project management.",
       "startDate": "2023-01-01",
       "endDate": "2023-10-01",
       "score": "7.0"
@@ -187,6 +189,7 @@
       "url": "https://edutecno.cl/",
       "area": "Full Stack JavaScript Development",
       "studyType": "Certificate",
+      "summary": "The program provided me with the skills to develop and maintain software using JavaScript and JavaScript-based frameworks. It enabled me to create REST API applications and manage PostgreSQL and MongoDB databases, all while focusing on providing technical solutions to effectively address user problems. I applied best programming practices to ensure the product met high-quality standards in line with industry requirements.",
       "startDate": "2021-04-01",
       "endDate": "2021-11-01",
       "score": "7.0"
@@ -196,6 +199,7 @@
       "url": "https://www.google.com/about/careers/applications/",
       "area": "UX/UI Design",
       "studyType": "Certificate",
+      "summary": "The certificate was developed using a comprehensive design process that began with empathizing with users and identifying pain points. Solutions were then generated through ideation, followed by the creation of wireframes and prototypes. Designs were rigorously tested and iterated upon. The process included conducting UX research studies, interviews, and usability studies, as well as synthesizing research results. Foundational UX concepts, such as user-centered design, accessibility, and equity-focused design, were applied throughout.",
       "startDate": "2021-04-01",
       "endDate": "2021-09-01",
       "score": "7.0"
@@ -205,6 +209,7 @@
       "url": "https://en.nwpu.edu.cn/",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor",
+      "summary": "The master's thesis focused on optimizing the cabin design of delivery vehicles in China by applying a user experience (UX) analysis model and scientific methods. The goal was to enhance ergonomics and design a new vehicle cabin that addresses all user pain points. The thesis was titled 'Delivery Vehicle Optimization Using Jack Software.' Ultimately, the methodology proved successful in resolving posture issues.",
       "startDate": "2017-08-01",
       "endDate": "2020-04-01",
       "score": "3.5"
@@ -214,6 +219,7 @@
       "url": "https://faad.udp.cl/",
       "area": "Industrial Design",
       "studyType": "Bachelor",
+      "summary": "The thesis focused on the development of a tourist application leveraging emerging technologies like augmented reality. The research employed a methodology grounded in design thinking to uncover insights into the Chilean tourist area of Cahuil. This area is renowned for its extraction of natural sea salt and holds the distinction of being a World Heritage Site. Despite its significance, Cahuil had low tourist visibility. Thus, the thesis aimed to create a technological solution to attract new tourists, offering them an enhanced and educational experience through technology.",
       "startDate": "2010-03-01",
       "endDate": "2015-01-01",
       "score": "6.1"
