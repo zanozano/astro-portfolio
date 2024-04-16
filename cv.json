@@ -6,7 +6,7 @@
     "email": "cristobal.manzano@zanozano.com",
     "phone": "+66 56599134",
     "url": "https://www.zanozano.com/",
-    "summary": "+7 years of experience in the design and IT industries, I have built a solid foundation in product design, UX/UI, and front-end development. My expertise in UX/UI is demonstrated through my creation of intuitive and visually appealing interfaces. This expertise is underpinned by a strong understanding of user-centered design and human-computer interaction principles. As a result, I design products that not only captivate visually but also excel in functionality and user experience. My collaborative leadership style and clear communication skills enable me to effectively manage projects and lead teams to success. I am confident in my ability to deliver innovative solutions that bring significant value to any organization.",
+    "summary": "+8 years of experience in the design and IT industries, I have built a solid foundation in product design, UX/UI, and front-end development. My expertise in UX/UI is demonstrated through my creation of intuitive and visually appealing interfaces. This expertise is underpinned by a strong understanding of user-centered design and human-computer interaction principles. As a result, I design products that not only captivate visually but also excel in functionality and user experience. My collaborative leadership style and clear communication skills enable me to effectively manage projects and lead teams to success. I am confident in my ability to deliver innovative solutions that bring significant value to any organization.",
     "location": {
       "address": "",
       "postalCode": "41000",
@@ -32,7 +32,7 @@
       "name": "Zanozano",
       "position": "UX/UI Designer & Front-end Developer",
       "url": "https://www.zanozano.com/",
-      "startDate": "2023-01-01",
+      "startDate": "2024-01-01",
       "endDate": null,
       "summary": "As a freelance UX/UI designer, my role involves creating digital products using agile methodologies. I develop design systems and create views using Figma, followed by implementing websites with React and JavaScript. Additionally, I work on multiple simultaneous projects for various clients, covering everything from user experience design.",
       "highlights": [
@@ -282,6 +282,15 @@
   ],
   "skills": [
     {
+      "name": "Figma",
+      "level": "Advanced",
+      "keywords": [
+        "UX",
+        "UI",
+        "Design System"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Advanced",
       "keywords": [
@@ -377,15 +386,6 @@
     {
       "language": "English",
       "fluency": "Advanced"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
     }
   ],
   "references": [
