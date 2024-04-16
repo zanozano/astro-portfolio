@@ -4,7 +4,7 @@
     "label": "Product Designer | UX/UI Designer | Front-end Developer",
     "image": "/avatar.webp",
     "email": "cristobal.manzano@zanozano.com",
-    "phone": "+66 688888888",
+    "phone": "+66 56599134",
     "url": "https://www.zanozano.com/",
     "summary": "+7 years of experience in the design and IT industries, I have built a solid foundation in product design, UX/UI, and front-end development. My expertise in UX/UI is demonstrated through my creation of intuitive and visually appealing interfaces. This expertise is underpinned by a strong understanding of user-centered design and human-computer interaction principles. As a result, I design products that not only captivate visually but also excel in functionality and user experience. My collaborative leadership style and clear communication skills enable me to effectively manage projects and lead teams to success. I am confident in my ability to deliver innovative solutions that bring significant value to any organization.",
     "location": {
@@ -38,7 +38,8 @@
       "highlights": [
         "Design System",
         "Prototype",
-        "Web Design"
+        "Web Design",
+        "UX/UI Design"
       ]
     },
     {
@@ -49,7 +50,10 @@
       "endDate": "2024-01-01",
       "summary": "My role in the company is focused on UX/UI design products using agile methodologies, creating user persona, user journey, benchmarking, and A/B testing. Currently, I am in charge of a Drilling project, developing the accessibility of a Cloud platform. Additionally, I am participating in improving a design kit to enhance the company's design process.",
       "highlights": [
-        "Started the company"
+        "Design System",
+        "HubSpot",
+        "UX/UI Design",
+        "Design Thinking"
       ]
     },
     {
@@ -60,7 +64,9 @@
       "endDate": "2024-01-01",
       "summary": "In my role at the company, I was responsible for creating an internal design system to support the marketing department in enhancing visibility across various applications. I developed a new design system and branding strategy for implementation within the company. Using UX/UI methodologies, I identified visibility issues across the company's different products to ensure increased sales and optimization.",
       "highlights": [
-        "Started the company"
+        "Branding System",
+        "UX/UI Design",
+        "Marketing"
       ]
     },
     {
@@ -71,7 +77,10 @@
       "endDate": "2022-12-01",
       "summary": "My role in the company was focused on UX research using agile methodologies, creating user persona, user journey, benchmarking, and A/B testing. Additionally, I was in charge of the UI for different projects like wireframes, mockups, and low-high prototyping using Figma and Adobe XD. On the other hand, I am responsible for front-end projects using JavaScript, React.Js, MUI, and material design as good practices.",
       "highlights": [
-        "Started the company"
+        "UX Research",
+        "Prototype",
+        "Front-end",
+        "Design System"
       ]
     },
     {
@@ -82,7 +91,10 @@
       "endDate": "2017-09-01",
       "summary": "My role in the company was focused on creating products from wood and acrylic using CNC laser technology. The products are based on our illustrations as a handmade process and then cut by a CNC laser to make them accessories. On the other hand, I am in charge of developing the branding, marketing, designing, and control processing. Furthermore, I maintain social networks as a community manager.",
       "highlights": [
-        "Started the company"
+        "Branding",
+        "CNC Design",
+        "Product Design",
+        "Service Design"
       ]
     },
     {
@@ -93,7 +105,10 @@
       "endDate": "2017-09-01",
       "summary": "My role in the startup was focused on researching and finding insight to help the development of a product based on farming growth automatization using techniques like design thinking and agile process, testing different shapes of the design product. Finally, a physical prototype and mobile application were made by the team. On the other hand, I was in charge of creating the packaging.",
       "highlights": [
-        "Started the company"
+        "Prototype",
+        "Packaging Design",
+        "Product Design",
+        "Design Thinking"
       ]
     },
     {
@@ -104,7 +119,10 @@
       "endDate": "2017-08-01",
       "summary": "My role in the university was focused on teaching rendering in 3DsMax with VRay and the basic notion of Unreal Engine to 3rd-year students in Graphic and Industrial Design. I taught different design concepts to forty students, such as composition, color theory, rendering, poly modeling, and photo editing with PSD.",
       "highlights": [
-        "Started the company"
+        "3D Modeling",
+        "Rendering",
+        "Teaching",
+        "Product Design"
       ]
     },
     {
@@ -115,18 +133,23 @@
       "endDate": "2016-12-01",
       "summary": "My role in the company was to be the lead designer and to address the design department, developing different products to focus on Electrical Engineering and illumination systems through solar panel assembly. On the one hand, I was focused on developing the corporative image and managing the social networks and website of the company. On the other hand, I led an engineering team through agile methodologies, making different products using benchmarking to get insight into the user's pain points.",
       "highlights": [
-        "Started the company"
+        "Engineering",
+        "Product Design",
+        "Light Design",
+        "UX Research"
       ]
     },
     {
       "name": "Freelance",
-      "position": "UX/UI Designer",
+      "position": "UX/UI Designer & Product Designer",
       "url": "https://www.linkedin.com/company/wisegrowth/",
       "startDate": "2015-03-01",
       "endDate": "2016-02-01",
       "summary": "As a freelance UX/UI designer, my role involves creating digital products using agile methodologies. I develop design systems and create views using Figma. Additionally, I work on multiple simultaneous projects for various clients, covering everything from user experience design.",
       "highlights": [
-        "Started the company"
+        "UX Research",
+        "UX/UI Design",
+        "Design Thinking"
       ]
     },
     {
@@ -137,7 +160,9 @@
       "endDate": "2015-03-01",
       "summary": "My role in the company was to be a product designer focusing on making furniture products. I developed products using design thinking methodology and sketches. Then, I made a model of the products to render. Every product was made thinking of the user insights through UX and ergonomics concepts for improving the usability of the products.",
       "highlights": [
-        "Started the company"
+        "Product Design",
+        "3D Modeling",
+        "UX Research"
       ]
     },
     {
@@ -148,7 +173,10 @@
       "endDate": "2014-12-01",
       "summary": "My role in the university was focused on teaching rendering and parametric modeling in Inventor Autodesk, making blueprints with AutoCAD to 2nd-year and 3rd-year students in Industrial Design. I taught different modeling concepts such as sketching, materials, illumination, rendering, sheet metal modeling, welding, and product designing.",
       "highlights": [
-        "Started the company"
+        "3D Modeling",
+        "Rendering",
+        "Teaching",
+        "Product Design"
       ]
     }
   ],
@@ -255,95 +283,75 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
-        "Diseño Responsive"
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "Backend",
         "Fullstack"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Backend",
         "JavaScript",
-        "Servidor"
+        "Server"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Bases de Datos",
+        "Data Base",
         "SQL",
-        "Almacenamiento de Datos",
+        "Data storage",
         "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
+        "Version control",
+        "Collaboration",
+        "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
+        "Version control",
+        "Collaboration",
+        "Source code",
         "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "React Framework",
         "SSR",
@@ -352,9 +360,9 @@
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web",
+        "Web Development",
         "Frontend",
         "JavaScript Library",
         "UI"
