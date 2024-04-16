@@ -165,6 +165,15 @@
   ],
   "education": [
     {
+      "institution": "Alkemy",
+      "url": "https://www.alkemy.org/",
+      "area": "Full Stack Java Development",
+      "studyType": "Certificate",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "score": "7.0"
+    },
+    {
       "institution": "Inforcap",
       "url": "https://www.infocap.cl/",
       "area": "Ruby on Rails Development",
