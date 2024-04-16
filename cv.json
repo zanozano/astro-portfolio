@@ -398,12 +398,68 @@
     {
       "name": "FullClima App",
       "isActive": true,
+      "url": "https://github.com/zanozano/fullclima-app",
       "description": "The Air Conditioning Control Hub is a robust Ruby-based application designed to revolutionize the management of air conditioning units across various settings",
       "highlights": [
         "Management",
         "Ruby on Rails"
       ],
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "github": "https://github.com/zanozano/fullclima-app"
+    },
+    {
+      "name": "Calcultor App",
+      "isActive": true,
+      "url": "https://calculator-5c753.web.app/",
+      "description": "A sleek React-based calculator designed for effortless calculations. The app boasts a beautiful user interface styled using SCSS and React, providing a seamless user experience.",
+      "highlights": [
+        "Calculator",
+        "React"
+      ],
+      "github": "https://github.com/zanozano/calculator-app"
+    },
+    {
+      "name": "SplitWise App",
+      "isActive": true,
+      "url": "https://splitwise-app-0tui.onrender.com/",
+      "description": "A web application designed to streamline the process of sharing bills and achieving financial harmony among roommates. Manage shared expenses effortlessly with a user-friendly interface.",
+      "highlights": [
+        "Calculator",
+        "React"
+      ],
+      "github": "https://github.com/zanozano/splitwise-app"
+    },
+    {
+      "name": "PokeQuest App",
+      "isActive": true,
+      "url": "https://pokeapi-9df8e.web.app/",
+      "description": "A web application designed to streamline the process of sharing bills and achieving financial harmony among roommates. Manage shared expenses effortlessly with a user-friendly interface.",
+      "highlights": [
+        "Calculator",
+        "React"
+      ],
+      "github": "https://github.com/zanozano/pokequest-explorer-app"
+    },
+    {
+      "name": "ToDo App",
+      "isActive": true,
+      "url": "https://zano-react-todo.web.app/",
+      "description": "Stay organized and boost productivity with Todo App, your simple and minimalist task management solution.",
+      "highlights": [
+        "Calculator",
+        "React"
+      ],
+      "github": "https://github.com/zanozano/todo-app"
+    },
+    {
+      "name": "EpicHero App",
+      "isActive": true,
+      "url": "https://epichero-app.web.app/",
+      "description": "Embark on a journey into the extraordinary with EpicHero, where legends come to life and tales of valor unfold.",
+      "highlights": [
+        "Calculator",
+        "React"
+      ],
+      "github": "https://github.com/zanozano/epichero-app"
     }
   ]
 }
