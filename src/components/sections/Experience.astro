@@ -49,6 +49,9 @@ import { work } from '@cv';
 
 							<footer>
 								<p>{summary}</p>
+								{highlights.map((highlight) => {
+									return <span>{highlight}</span>;
+								})}
 							</footer>
 						</article>
 					</li>
@@ -96,7 +99,20 @@ import { work } from '@cv';
 		min-width: 102px;
 		cursor: default;
 	}
-
+	footer {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 4px;
+		font-size: 0.6rem;
+	}
+	footer span {
+		border-radius: 6px;
+		background: #eee;
+		color: #444;
+		font-size: 0.6rem;
+		font-weight: 500;
+		padding: 0.2rem 0.6rem;
+	}
 	[data-title]:hover:after {
 		opacity: 1;
 		transition: all 0.1s ease-in-out 0.5s;

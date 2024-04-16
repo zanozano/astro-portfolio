@@ -33,10 +33,12 @@
       "position": "UX/UI Designer & Front-end Developer",
       "url": "https://www.zanozano.com/",
       "startDate": "2023-01-01",
-      "endDate": "As a freelance UX/UI designer, my role involves creating digital products using agile methodologies. I develop design systems and create views using Figma, followed by implementing websites with React and JavaScript. Additionally, I work on multiple simultaneous projects for various clients, covering everything from user experience design.",
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "endDate": null,
+      "summary": "As a freelance UX/UI designer, my role involves creating digital products using agile methodologies. I develop design systems and create views using Figma, followed by implementing websites with React and JavaScript. Additionally, I work on multiple simultaneous projects for various clients, covering everything from user experience design.",
       "highlights": [
-        "Started the company"
+        "Design System",
+        "Prototype",
+        "Web Design"
       ]
     },
     {
